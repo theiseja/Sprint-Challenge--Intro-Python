@@ -29,6 +29,8 @@ Complete the programs in the `src/` directory in any order.
 
 ## Testing
 
+
+
 Each file has its own associated test file. To test your code, run `python [name_of_test_file.py]` or `python3 [name_of_test_file.py]` if your Python 3 command is mapped to `python3`. Note: `cityreader` needs to be run from the same directory as the files or it will not be able to find the associated CSV file.
 
 The `cityreader` stretch goal has its own test file, `test_stretch.py`, if you want to take a stab at implementing the stretch problem.
@@ -53,4 +55,4 @@ There's a separate test file `test_stretch.py` for the stretch problem that you 
 | _Student can demonstrate applied knowledge of Python basics by producing list comprehensions in `comp.py`_ | List Comprehensions: (1 point per problem, 8 max) | 0-5 points | 6-7 points | 8 points |  |
 | _Student can demonstrate applied knowledge of Object-Oriented Programming by completing `oop1.py` and `oop2.py`_ | OOP: (2 points per file, 4 max) | 0 points | 2 points | 4 points |  |
 | _Student can demonstrate applied research and language learning by completing `cityreader.py`_ | CSV: 6 points for `cityreader()`, 1 point for `cityreader_stretch()` | 0 points | 6 points | 7 points |  |
-| **FINAL SCORE** | | **0-13** | **14-18** | **19** |  |
+| **FINAL SCORE** | | **0-13** | **14-18** | **19** | |
